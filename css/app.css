@@ -24,6 +24,16 @@
   font-size: 22px;
 }
 
+.log ul {
+  list-style: none;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.log ul li {
+  margin: 5px;
+}
+
 
 button {
   font-size: 20px;
