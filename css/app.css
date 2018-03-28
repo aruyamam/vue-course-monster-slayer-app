@@ -34,6 +34,15 @@
   margin: 5px;
 }
 
+.log ul .player-turn {
+  color: blue;
+  background-color: #e4e8ff;
+}
+
+.log ul .monster-turn {
+  color: red;
+  background-color: #ffc0c1;
+}
 
 button {
   font-size: 20px;
